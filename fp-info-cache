@@ -1,4 +1,4 @@
-24644275148752449
+24649498941578582
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -24429,6 +24429,13 @@ connector Molex SlimStack side entry
 0
 80
 80
+Connector_My
+Mini-Fit_01x02_Vertical
+
+
+0
+2
+2
 Connector_My
 TE_1-776087-1
 
@@ -52947,6 +52954,20 @@ connector Wuerth WR-WTB vertical
 0
 10
 10
+Contactor_My
+EV200
+
+
+0
+0
+0
+Contactor_My
+SVC100A
+
+
+0
+0
+0
 Converter_ACDC
 Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf

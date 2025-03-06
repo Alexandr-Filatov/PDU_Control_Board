@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MORNSUN")(type "KiCad")(uri "${KIPRJMOD}/Lib/MORNSUN.pretty")(options "")(descr ""))
   (lib (name "Connector_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Connector_My.pretty")(options "")(descr ""))
+  (lib (name "Contactor_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Contactor_My.pretty")(options "")(descr ""))
 )
