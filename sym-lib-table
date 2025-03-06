@@ -3,4 +3,6 @@
   (lib (name "MORNSUN")(type "KiCad")(uri "${KIPRJMOD}/Lib/MORNSUN.kicad_sym")(options "")(descr ""))
   (lib (name "Connector_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Connector_My.kicad_sym")(options "")(descr ""))
   (lib (name "Contactor_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Contactor_My.kicad_sym")(options "")(descr ""))
+  (lib (name "NOVSENSE")(type "KiCad")(uri "${KIPRJMOD}/Lib/NOVSENSE.kicad_sym")(options "")(descr ""))
+  (lib (name "power_my")(type "KiCad")(uri "${KIPRJMOD}/Lib/power_my.kicad_sym")(options "")(descr ""))
 )

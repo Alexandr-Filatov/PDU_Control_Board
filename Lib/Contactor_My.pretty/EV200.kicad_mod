@@ -218,7 +218,7 @@
 		(layers "*.Mask")
 		(uuid "e2ec120d-e465-4c1f-adf3-9e5105bd5ff4")
 	)
-	(model "${KIPRJMOD}/3D/Tyco KiloVac EV200 Contactor.STEP"
+	(model "C:/Users/alexa/Downloads/tyco_kilovac_ev200_contactor_v2.stp"
 		(offset
 			(xyz 13 3 36.5)
 		)
