@@ -14745,9 +14745,9 @@
 			)
 		)
 	)
-	(global_label "VDC_OUT1_P"
+	(global_label "VDC_IN"
 		(shape input)
-		(at 946.15 527.05 180)
+		(at 946.15 514.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14755,9 +14755,9 @@
 			)
 			(justify right)
 		)
-		(uuid "230609b8-26e1-4f88-b403-a80aed238399")
+		(uuid "16b229a8-9c0a-40f2-a2b2-680865f12aa3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 933.3433 527.05 0)
+			(at 937.7939 514.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14965,6 +14965,28 @@
 			)
 		)
 	)
+	(global_label "VDC_OUT1"
+		(shape input)
+		(at 946.15 527.05 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "477af788-73c7-4b96-8913-831efe28dd15")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 935.5047 527.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "~{Precharge_1_ON}"
 		(shape input)
 		(at 307.34 323.85 0)
@@ -15022,28 +15044,6 @@
 		(uuid "5af41ac6-c549-48c3-bcdd-def142c88cd8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 787.6201 295.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VDC_OUT2_P"
-		(shape input)
-		(at 946.15 514.35 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "730dd78c-02eb-4194-9ccf-1d260aee19f3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 933.089 514.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15251,28 +15251,6 @@
 			)
 		)
 	)
-	(global_label "VDC_OUT1_N"
-		(shape input)
-		(at 946.15 529.59 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "95b616b1-09df-48b3-8daa-51781a11ad33")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 933.3433 529.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "Shunt_1"
 		(shape input)
 		(at 631.19 544.195 180)
@@ -15339,29 +15317,7 @@
 			)
 		)
 	)
-	(global_label "VDC_IN_P"
-		(shape input)
-		(at 946.15 539.75 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a25aba39-2a49-493d-8a95-ab2167dd6b6a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 935.6325 539.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VDC_OUT1"
+	(global_label "VDC_OUT2"
 		(shape input)
 		(at 652.145 410.21 180)
 		(fields_autoplaced yes)
@@ -15373,7 +15329,7 @@
 		)
 		(uuid "a7f1d09b-270e-43bc-b7be-2d7ca37c371b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 641.4997 410.21 0)
+			(at 639.7255 410.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15603,6 +15559,28 @@
 			)
 		)
 	)
+	(global_label "VDC_OUT2"
+		(shape input)
+		(at 946.15 539.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ed2d4b63-8438-49f3-8ce3-36d6e164e115")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 933.7305 539.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CAN1_RXD_MCU"
 		(shape bidirectional)
 		(at 307.34 331.47 0)
@@ -15621,28 +15599,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VDC_IN_N"
-		(shape input)
-		(at 946.15 542.29 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f38b126b-43db-4ba7-8b7f-fd807276185b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 935.6325 542.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -15748,28 +15704,6 @@
 		(uuid "fcf31c80-66f2-4cc9-b195-d7c206c28104")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 243.6367 308.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VDC_OUT2_N"
-		(shape input)
-		(at 946.15 516.89 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fd3daa1a-3295-4f2e-81f9-2f16f38a3c05")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 933.089 516.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27059,6 +26993,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDPWR")
+		(at 946.15 529.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "734a95b7-4269-4ce1-b6eb-67043d1e8383")
+		(property "Reference" "#PWR0160"
+			(at 946.15 534.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 946.023 534.035 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 946.15 530.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 946.15 530.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 946.15 529.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "67b52b53-a8e6-434a-9c02-b3701048ca82")
+		)
+		(instances
+			(project "PDU_Control_Board"
+				(path "/7b040528-7065-4d6b-8722-075d9f593d01"
+					(reference "#PWR0160")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 672.465 596.265 0)
 		(unit 1)
@@ -33402,6 +33402,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDPWR")
+		(at 946.15 542.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4bad233-77f9-4601-9241-c27198157a47")
+		(property "Reference" "#PWR0159"
+			(at 946.15 547.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 946.023 546.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 946.15 543.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 946.15 543.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 946.15 542.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "90eda5ea-906a-48a7-acd5-5f27b4ff4a68")
+		)
+		(instances
+			(project "PDU_Control_Board"
+				(path "/7b040528-7065-4d6b-8722-075d9f593d01"
+					(reference "#PWR0159")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 252.73 298.45 0)
 		(unit 1)
@@ -38065,6 +38131,72 @@
 			(project "PDU_Control_Board"
 				(path "/7b040528-7065-4d6b-8722-075d9f593d01"
 					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDPWR")
+		(at 946.15 516.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e3e5fa64-7e11-4f03-aa80-e79288c5fd48")
+		(property "Reference" "#PWR0161"
+			(at 946.15 521.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDPWR"
+			(at 946.023 521.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 946.15 518.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 946.15 518.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
+			(at 946.15 516.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ea12c53f-599e-4166-aaf1-19e6519b7a8a")
+		)
+		(instances
+			(project "PDU_Control_Board"
+				(path "/7b040528-7065-4d6b-8722-075d9f593d01"
+					(reference "#PWR0161")
 					(unit 1)
 				)
 			)
