@@ -186,7 +186,8 @@
         0.0,
         0.3,
         0.5,
-        1.0
+        1.0,
+        1.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -598,7 +599,7 @@
   "sheets": [
     [
       "7b040528-7065-4d6b-8722-075d9f593d01",
-      "Root"
+      "Корневой лист"
     ]
   ],
   "text_variables": {}
