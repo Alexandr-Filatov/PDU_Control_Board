@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "3D/PDU_Control_Board.step",
       "svg": "",
       "vrml": ""
     },
@@ -598,7 +598,7 @@
   "sheets": [
     [
       "7b040528-7065-4d6b-8722-075d9f593d01",
-      "Корневой лист"
+      "Root"
     ]
   ],
   "text_variables": {}
