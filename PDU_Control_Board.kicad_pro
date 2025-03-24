@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 4.3,
-          "height": 4.3,
-          "width": 4.3
+          "height": 8.6,
+          "width": 8.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -491,7 +491,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "3D/PDU_Control_Board_V2.0.step",
+      "step": "3D/PDU_Control_Board_V3.0.step",
       "svg": "",
       "vrml": ""
     },
@@ -599,7 +599,7 @@
   "sheets": [
     [
       "7b040528-7065-4d6b-8722-075d9f593d01",
-      "Корневой лист"
+      "Root"
     ]
   ],
   "text_variables": {}
