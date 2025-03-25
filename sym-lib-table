@@ -5,4 +5,5 @@
   (lib (name "Contactor_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Contactor_My.kicad_sym")(options "")(descr ""))
   (lib (name "NOVSENSE")(type "KiCad")(uri "${KIPRJMOD}/Lib/NOVSENSE.kicad_sym")(options "")(descr ""))
   (lib (name "power_my")(type "KiCad")(uri "${KIPRJMOD}/Lib/power_my.kicad_sym")(options "")(descr ""))
+  (lib (name "Logo_My")(type "KiCad")(uri "${KIPRJMOD}/Lib/Logo_My.kicad_sym")(options "")(descr ""))
 )
