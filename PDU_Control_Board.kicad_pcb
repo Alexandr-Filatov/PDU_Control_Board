@@ -49723,7 +49723,7 @@
 			(at 0 5.5 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b5fb32b4-25e6-46cc-96ef-878c4c4f7ac9")
+			(uuid "243a8d13-0a3a-4f98-b45e-1abeee33def6")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -49735,7 +49735,7 @@
 			(at 0 -6 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "4ff52ab1-a81f-462e-b468-52bbc9da2d6f")
+			(uuid "c15eeeb9-cca7-4584-a8a8-c9e0255619d4")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -49850,7 +49850,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "cfb3913c-8a0a-42cc-a749-940c85dd82f3")
+			(uuid "7c616b48-7bfa-46b3-8b95-21de124a333b")
 		)
 		(fp_poly
 			(pts
@@ -49989,7 +49989,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "6dd0a6ed-f5af-4eb5-b751-db8495bd767a")
+			(uuid "40649905-e7eb-4599-86a8-9e48c0843c28")
 		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
