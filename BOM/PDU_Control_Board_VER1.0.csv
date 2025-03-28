@@ -1,0 +1,53 @@
+Reference	Value	Product Name	Replacement	Description P/N	Footprint	Qty	DNP
+C1,C3,C4,C5,C6,C7,C10,C11,C12,C21,C22,C27,C31,C36,C44,C74,C75	100n				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	17	
+C2,C18,C19,C39,C40,C41,C42,C43,C72	1u				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	9	
+C8,C16,C17,C20,C28,C29,C30,C34,C35,C38,C46,C49,C52,C57	56p				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	14	
+C9,C13	30p				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	2	
+C14,C15,C48,C50,C53,C55,C58,C60	2.2u				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	8	
+C23,C32,C37,C45	0.27u				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	4	
+C24,C71	22u				Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder	2	
+C25,C69	10u				Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder	2	
+C26,C70	330u	CA45-C6R3K337T			Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C_Pad2.25x2.35mm_HandSolder	2	
+C33,C66	22u	CA45L-E050K226TE400			Capacitor_Tantalum_SMD:CP_EIA-7343-43_Kemet-X_Pad2.25x2.55mm_HandSolder	2	
+C47,C51,C54,C56,C59,C61	0.1u				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	6	
+C62	1u	293D105X9050C2TE3			Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C_Pad2.25x2.35mm_HandSolder	1	
+C63	10u	293D106X9050E2TE3			Capacitor_Tantalum_SMD:CP_EIA-7360-38_Kemet-E_Pad2.25x4.25mm_HandSolder	1	
+C64	100u	293D107X96R3B2TE3			Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder	1	
+C65	10u	293D106X96R3B2TE3			Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B_Pad1.50x2.35mm_HandSolder	1	
+C67	2.2n				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	1	
+C68	47n				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	1	
+C73	4.7u				Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder	1	
+D1	~	SIT65HVD232DR		CAN interface	Package_SO:SOIC-8_3.9x4.9mm_P1.27mm	1	
+D2	~	PESD2CAN		Dual Line CAN Bus Protector, 24Vrwm	Package_TO_SOT_SMD:SOT-23	1	
+D3	~	BAS416		Diode	Diode_SMD:D_SOD-323_HandSoldering	1	
+D4,D6,D7,D8,D13	~	RS1B		Fast recovery diode	Diode_SMD:D_SMA_Handsoldering	5	
+D5,D17,D18,D28,D43	~	BAT54S		Schottky barrier diode	Package_TO_SOT_SMD:SOT-23	5	
+D9,D10,D11,D12,D14,D38,D39	~	FYLS-0805UBC		Blue LED	LED_SMD:LED_0805_2012Metric	7	
+D15,D19,D20,D21,D22,D23,D24,D25,D26,D27,D40,D42	~	FYLS-0805UYC		Yellow LED	LED_SMD:LED_0805_2012Metric	12	
+D16	~	K7803-1000R3		DC/DC converter 	MORNSUN:K78xx-1000R3	1	
+D34,D35,D36	~	NSI1311		Isolated amplifier	Package_SO:SOIC-8_7.5x5.85mm_P1.27mm	3	
+D37	~	WRB2403S-3WR2		DC/DC converter 	MORNSUN:WRB_S-3WR2	1	
+D41	~	K7805-1000R3		DC/DC converter 	MORNSUN:K78xx-1000R3	1	
+J1,J13	~	DS1073-01-2x2-MVT6		Connector	Connector_Molex:Molex_Mini-Fit_Jr_5566-04A_2x02_P4.20mm_Vertical	2	
+J2,J4,J5,J6,J7,J8,J9,J10,J11,J12,J20,J21,J22	~	DS1073-01-2x1-MVT6		Connector	Connector_My:Mini-Fit_01x02_Vertical	13	
+J3	~	PLS-4	DS-1021-1x4	Connector	Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical	1	
+L1	4.7u	NLC453232T-4R7K-PF			Inductor_SMD:L_1812_4532Metric_Pad1.30x3.40mm_HandSolder	1	
+Q1,Q2,Q3,Q4,Q5	~	BSP75N		Self-Protected Low Side Driver with Temperature and Current Limit, SOT−223	Package_TO_SOT_SMD:SOT-223	5	
+Q6,Q7,Q8,Q9,Q10	~	BC817		NPN Transistor	Package_TO_SOT_SMD:SOT-23	5	
+R2,R3,R9,R14,R19,R20,R21,R26,R28,R29,R30,R31,R33,R34,R36,R47,R48,R64	1k				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	18	
+R4,R5,R10,R11,R12,R13,R76,R77,R78,R79,R80	5.1k				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	11	
+R6,R8,R17,R25,R85,R86	120				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	6	
+R7	14k				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	1	
+R15,R16,R23,R24,R88,R89	47k				Resistor_SMD:R_1206_3216Metric	6	
+R18,R27,R87	240				Resistor_SMD:R_1206_3216Metric	3	
+R22,R39,R56,R84	49.9				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	4	
+R32	665				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	1	
+R35	1k				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	1	DNP
+R37,R75	750				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	2	
+R38	1.1k				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	1	
+R65,R67,R69,R71,R73	22k				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	5	
+R66,R68,R70,R72,R74	100				Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	5	
+R81,R82,R83	100k				Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder	3	
+U1,U3,U4,U5,U6	~	LMV321		Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOT-23-5/SC-70-5	Package_TO_SOT_SMD:SOT-23-5	5	
+U2	~	APM32F405xG		uController	Package_QFP:LQFP-100_14x14mm_P0.5mm	1	
+Y2	~	X322516MOB4SI		Crystal	Crystal:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm	1	
