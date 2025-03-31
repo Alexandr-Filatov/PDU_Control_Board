@@ -6874,7 +6874,7 @@
 		(descr "crystal Epson Toyocom FA-238 https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, 3.2x2.5mm^2 package")
 		(tags "SMD SMT crystal")
 		(property "Reference" "Y2"
-			(at 0 2.54 180)
+			(at 0 -2.54 180)
 			(layer "F.SilkS")
 			(uuid "623fd3af-e7e4-4826-bbf3-6b19f326fa93")
 			(effects
@@ -10331,7 +10331,7 @@
 			)
 		)
 		(property "Value" "23.7k"
-			(at 0 1.82 360)
+			(at 0 1.82 0)
 			(layer "F.Fab")
 			(uuid "c6356fe8-e692-407e-80f3-9056640d522b")
 			(effects
@@ -10538,7 +10538,7 @@
 			(uuid "417d5b52-3d7b-4848-ab03-ba08e2e3c4f1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "7bd1aa31-d0de-4a08-9b0b-563d26ea2c05")
 			(effects
@@ -12463,7 +12463,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D29"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(uuid "75a96fa2-80f3-4f9c-ac02-b9d32dbe7358")
 			(effects
@@ -12474,7 +12474,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 2.4 360)
+			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "0b60e759-fa68-4852-bd6f-bcad13baa348")
 			(effects
@@ -12485,7 +12485,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d958e270-fd49-4d90-a5ab-aa708570a2d0")
@@ -12497,7 +12497,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "04f510cc-07b0-4e92-86ac-f937b6430fba")
@@ -12509,7 +12509,7 @@
 			)
 		)
 		(property "Description" "Dual diode, anode/cathode/center"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2f295bb0-9d9b-44e6-aabf-2b2c793e4f7a")
@@ -12719,7 +12719,7 @@
 			(uuid "dc49b172-3781-4fd7-b549-aab49abc289e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "7cd598a8-8eee-4fb2-921b-e8e7ab3f66b5")
 			(effects
@@ -13127,7 +13127,7 @@
 		(path "/34aac687-c84a-430e-8c6b-e3cd3b1430d5")
 		(sheetname "Корневой лист")
 		(sheetfile "PDU_Control_Board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start -1.33 8.95)
 			(end 3.87 8.95)
@@ -13299,7 +13299,7 @@
 			(uuid "6d64d495-8537-4f20-a55f-3b0a11d7c8f6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 3.81 360)
+			(at 1.27 3.81 0)
 			(layer "F.Fab")
 			(uuid "f3fad879-2f35-4ef1-997d-1ef4e918c1b7")
 			(effects
@@ -15361,7 +15361,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
-			(at 0 1.905 360)
+			(at 0 1.905 0)
 			(layer "F.SilkS")
 			(uuid "3fc33383-4676-43c6-8b5f-5c776632f9f4")
 			(effects
@@ -15372,7 +15372,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "8efddf52-437c-4fba-a9bc-9fae9371b825")
 			(effects
@@ -15579,7 +15579,7 @@
 			(uuid "a27d87b0-ac24-4d3d-8fd0-8687f32f7712")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "44280d13-d362-409b-8de6-8a814bdadcb2")
 			(effects
@@ -15892,7 +15892,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R41"
-			(at 0 1.905 360)
+			(at 0 1.905 0)
 			(layer "F.SilkS")
 			(uuid "a03d3467-af23-4da5-8bb3-44206d8ed95a")
 			(effects
@@ -15903,7 +15903,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "241fac83-d1e0-438a-81cf-b3797504c03b")
 			(effects
@@ -16110,7 +16110,7 @@
 			(uuid "09ab40c4-5a6f-4293-b62f-7378025cb5f5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "1112428c-2ab7-4e0e-bcc4-a461ad15c902")
 			(effects
@@ -18272,6 +18272,7 @@
 		(property "Reference" "TP1"
 			(at 0.7 2.5 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "47a2fc79-5277-4249-b04a-ea63465304c5")
 			(effects
 				(font
@@ -18737,7 +18738,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R40"
-			(at 0 1.905 360)
+			(at 0 1.905 0)
 			(layer "F.SilkS")
 			(uuid "f7ed8d8f-1eb8-4029-8c9d-803733eaee2b")
 			(effects
@@ -18748,7 +18749,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "2ee3adcd-d369-41af-9791-95487990ffc2")
 			(effects
@@ -18955,7 +18956,7 @@
 			(uuid "0ec152f0-b92a-4948-963e-95dc45f095c3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "27acfe52-d23e-4fd4-905f-0fd9c7a6ecd4")
 			(effects
@@ -26570,7 +26571,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 2.4 360)
+			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "26217bff-4390-41d6-8669-5af5e5292cb0")
 			(effects
@@ -26581,7 +26582,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7c744756-31d9-4468-9079-10b5e36827e7")
@@ -26593,7 +26594,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8605b8d1-e01c-4914-8446-2fac6f052e7e")
@@ -26605,7 +26606,7 @@
 			)
 		)
 		(property "Description" "Dual diode, anode/cathode/center"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "74222662-7687-4ffa-acb1-eaa79ee5d197")
@@ -26815,7 +26816,7 @@
 			(uuid "b62222a2-7733-422a-aae6-981b6ee699a6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "4e407401-9048-4a3a-84b3-17f9493c9378")
 			(effects
@@ -36979,7 +36980,7 @@
 			)
 		)
 		(property "Value" "23.7k"
-			(at 0 1.82 360)
+			(at 0 1.82 0)
 			(layer "F.Fab")
 			(uuid "86edd35d-a889-487c-90cf-d563d85a30bd")
 			(effects
@@ -37186,7 +37187,7 @@
 			(uuid "d7e95ad3-e4f0-450b-b64f-a4fc3bda9e9a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "448448a2-82ab-4179-89e6-afae19d082fc")
 			(effects
@@ -38315,7 +38316,7 @@
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J3"
-			(at 0 -2.33 0)
+			(at 0 -2.55 0)
 			(layer "F.SilkS")
 			(uuid "c5d00dc5-0b18-4fff-b40e-205e74d5102c")
 			(effects
@@ -39728,7 +39729,7 @@
 			)
 		)
 		(property "Value" "23.7k"
-			(at 0 1.82 360)
+			(at 0 1.82 0)
 			(layer "F.Fab")
 			(uuid "06668ad6-c496-4550-b87e-fe809dcddd05")
 			(effects
@@ -39935,7 +39936,7 @@
 			(uuid "b5a2494f-e170-4d2e-b118-4cf03802b2aa")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "98c13b60-f36c-45ad-a5b3-bc003e3a90ad")
 			(effects
@@ -41906,7 +41907,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R43"
-			(at 0 1.905 360)
+			(at 0 1.905 0)
 			(layer "F.SilkS")
 			(uuid "31d34dd2-3731-4da6-829e-f17cffd7b389")
 			(effects
@@ -41917,7 +41918,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 0 1.65 360)
+			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "5924d7c4-347f-43ab-b85c-dd177f2aebb2")
 			(effects
@@ -42124,7 +42125,7 @@
 			(uuid "e4c627a7-4d4d-41ef-a9f4-4ea78d88fcf0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "c148da3a-63a6-4af7-a5c4-fa20368b14f8")
 			(effects
@@ -42171,7 +42172,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D31"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(uuid "405f93d5-4297-4f31-8dbc-171e22aab1a9")
 			(effects
@@ -42182,7 +42183,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 2.4 360)
+			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "111503b6-a049-446f-8b79-7e6eb7e4fc18")
 			(effects
@@ -42193,7 +42194,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e03b0e40-1895-415b-bb6b-4ae57520c7ea")
@@ -42205,7 +42206,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "17b247d6-5514-4726-8104-4a9b639f3c3f")
@@ -42217,7 +42218,7 @@
 			)
 		)
 		(property "Description" "Dual diode, anode/cathode/center"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8a17c09a-deea-495b-8244-7fdf2bd5360c")
@@ -42427,7 +42428,7 @@
 			(uuid "d0b9a572-2d9e-40d6-a53b-948c4276cb31")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "ac775be6-d4fd-4208-986b-971ab9f8efc3")
 			(effects
@@ -43114,7 +43115,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D30"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(uuid "2ac7ac69-1f2c-4b56-a4a4-482edd9c1a45")
 			(effects
@@ -43125,7 +43126,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 2.4 360)
+			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "0c40ceb4-455b-40e6-9b45-1a3023810b81")
 			(effects
@@ -43136,7 +43137,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "36c63e0d-3d45-43df-8c0c-695c22d9bd2b")
@@ -43148,7 +43149,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a10c044a-d627-4c8d-abfc-9c36b7ac8e06")
@@ -43160,7 +43161,7 @@
 			)
 		)
 		(property "Description" "Dual diode, anode/cathode/center"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6fadcee5-1980-46b2-8e03-5463ebf2f285")
@@ -43370,7 +43371,7 @@
 			(uuid "a5ac683c-0d15-45c0-b024-b4239ebda5c8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "21410287-6d2e-48fa-a45b-6357ef4c2328")
 			(effects
@@ -44562,7 +44563,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D32"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(uuid "626948d6-4133-4d60-97e1-11cf69341a16")
 			(effects
@@ -44573,7 +44574,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 0 2.4 360)
+			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "5b25e17e-5162-493a-87ca-0faf4d5eda79")
 			(effects
@@ -44584,7 +44585,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "49f94d34-3c23-4e3e-841a-7f519b361eeb")
@@ -44596,7 +44597,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ab395356-0834-4737-a8c7-e9b8074aad66")
@@ -44608,7 +44609,7 @@
 			)
 		)
 		(property "Description" "Dual diode, anode/cathode/center"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "521f91b4-ef42-492c-a3a9-c4fcf182cb5f")
@@ -44818,7 +44819,7 @@
 			(uuid "c16a99e9-2845-4b32-b3ab-e26b74576bbb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "e42fcdb2-75df-48da-a51e-6a79ecfa7a20")
 			(effects
@@ -56905,7 +56906,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D43"
-			(at 0 -2.54 0)
+			(at 0 -3.81 90)
 			(layer "F.SilkS")
 			(uuid "9540bca7-3beb-4054-a039-f8ec3c03f84a")
 			(effects
@@ -59622,6 +59623,7 @@
 		(property "Reference" "TP2"
 			(at 0.7 2.5 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "e03c5575-7c40-43cd-9619-18d7e4280f42")
 			(effects
 				(font
@@ -73380,6 +73382,16 @@
 		(uuid "b0186282-7b22-4d4d-b8e5-5980c2aa67ba")
 	)
 	(gr_line
+		(start 224.79 208.915)
+		(end 233.68 208.915)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "017fbc00-e74e-4d1d-af90-2891da671e68")
+	)
+	(gr_line
 		(start 271.145 245.11)
 		(end 271.145 237.49)
 		(stroke
@@ -73418,6 +73430,16 @@
 		)
 		(layer "F.SilkS")
 		(uuid "15aa0cb1-d2ea-40fa-83e4-fc591096aaab")
+	)
+	(gr_line
+		(start 238.125 186.055)
+		(end 238.125 177.165)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1a1f2a80-c666-4f54-a304-bdd5f61b1b3e")
 	)
 	(gr_line
 		(start 302.26 191.135)
@@ -73500,6 +73522,16 @@
 		(uuid "635edf54-4a45-4aa5-bcda-5daef806c1cd")
 	)
 	(gr_line
+		(start 235.585 181.61)
+		(end 240.665 181.61)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7597f14e-a5bb-4e73-888c-4d00c6f817c9")
+	)
+	(gr_line
 		(start 358.14 190.5)
 		(end 358.14 162.56)
 		(stroke
@@ -73570,6 +73602,16 @@
 		(uuid "816b2135-61ac-41a4-bb58-29c36247803b")
 	)
 	(gr_line
+		(start 229.235 206.375)
+		(end 229.235 211.455)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8c54a612-6665-44c9-967f-57a908c8fd41")
+	)
+	(gr_line
 		(start 297.18 190.5)
 		(end 297.18 162.56)
 		(stroke
@@ -73588,6 +73630,17 @@
 		)
 		(layer "F.SilkS")
 		(uuid "9698a9da-b693-40b9-a20a-77a19508c034")
+	)
+	(gr_rect
+		(start 224.79 206.375)
+		(end 233.68 211.455)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "ac0f86cb-ef7e-4013-95a7-8317b986df58")
 	)
 	(gr_line
 		(start 398.145 203.835)
@@ -73618,6 +73671,17 @@
 		)
 		(layer "F.SilkS")
 		(uuid "c79125a5-6814-4db9-b884-04cc52fa85c5")
+	)
+	(gr_rect
+		(start 235.585 177.165)
+		(end 240.665 186.055)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "d42d8c80-6b80-4879-a472-477413c793ce")
 	)
 	(gr_line
 		(start 450.85 203.835)
@@ -73773,6 +73837,30 @@
 		(layer "Edge.Cuts")
 		(uuid "f0242ff9-6ed0-4871-9763-7f4c5ec25d13")
 	)
+	(gr_text "SWCLK\n"
+		(at 296.545 217.17 0)
+		(layer "F.SilkS")
+		(uuid "0772a345-e4c2-4bdf-90fe-3405f78ec3de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+3.3V"
+		(at 296.545 212.09 0)
+		(layer "F.SilkS")
+		(uuid "0f07bc70-e7a5-4425-a645-f718a9f9849c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "+24V"
 		(at 264.795 241.3 0)
 		(layer "F.SilkS")
@@ -73783,6 +73871,30 @@
 				(thickness 0.25)
 				(bold yes)
 			)
+		)
+	)
+	(gr_text "+24V\n"
+		(at 237.49 181.61 90)
+		(layer "F.SilkS")
+		(uuid "1c65d1cc-95c2-4168-b788-e2543597143e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "DAC2\n"
+		(at 321.31 228.6 0)
+		(layer "F.SilkS")
+		(uuid "2c118495-ac48-4337-a831-9b63fdd1a936")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "Current Sensor\n"
@@ -73833,6 +73945,18 @@
 			)
 		)
 	)
+	(gr_text "DAC1\n"
+		(at 316.865 228.6 0)
+		(layer "F.SilkS")
+		(uuid "4a430462-2fae-413d-a8c2-5afd8c0254d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Precharge 2"
 		(at 345.44 192.405 0)
 		(layer "F.SilkS")
@@ -73881,6 +74005,30 @@
 			)
 		)
 	)
+	(gr_text "+5V\n"
+		(at 224.79 208.28 0)
+		(layer "F.SilkS")
+		(uuid "697756b0-d434-4719-90e9-984f08f593e8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 229.87 210.82 0)
+		(layer "F.SilkS")
+		(uuid "7c69df3a-f9ab-4e24-915a-558266589da9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "PDU Control Board VER1.0"
 		(at 328.295 244.475 0)
 		(layer "F.SilkS")
@@ -73890,6 +74038,18 @@
 				(size 2 2)
 				(thickness 0.3)
 			)
+		)
+	)
+	(gr_text "SWDIO"
+		(at 296.545 214.63 0)
+		(layer "F.SilkS")
+		(uuid "a55a03b0-eb03-4318-bf63-8872dddb318a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "Shunt 1\n"
@@ -73916,6 +74076,30 @@
 			)
 		)
 	)
+	(gr_text "GND"
+		(at 225.425 210.82 0)
+		(layer "F.SilkS")
+		(uuid "b4b1de8d-0d22-47a0-ad14-d1e202178def")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 296.545 219.71 0)
+		(layer "F.SilkS")
+		(uuid "b7b04cf4-22ad-472a-bec6-5c10715948bd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "VOUT 2"
 		(at 438.15 164.465 0)
 		(layer "F.SilkS")
@@ -73926,6 +74110,42 @@
 				(thickness 0.25)
 				(bold yes)
 			)
+		)
+	)
+	(gr_text "CANH"
+		(at 240.03 186.055 90)
+		(layer "F.SilkS")
+		(uuid "d1ecc800-a70e-4b95-a23d-bd1751dde60e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "CANL"
+		(at 240.03 181.61 90)
+		(layer "F.SilkS")
+		(uuid "d528b5ad-feff-448c-9d5f-253901792b39")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 237.49 185.42 90)
+		(layer "F.SilkS")
+		(uuid "db511248-d90b-4c49-905f-0b7e8e0753b2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "Precharge 1\n"
@@ -73950,6 +74170,18 @@
 				(thickness 0.25)
 				(bold yes)
 			)
+		)
+	)
+	(gr_text "OUT"
+		(at 229.87 208.28 0)
+		(layer "F.SilkS")
+		(uuid "ed8346dd-fef8-45fb-a835-d9dd4b2f34ce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(dimension
