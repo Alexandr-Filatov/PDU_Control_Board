@@ -9647,6 +9647,16 @@
 		)
 		(uuid "4f984bae-eea2-4f7e-a830-726b616eefcd")
 	)
+	(text "НВЦТ.0001.0400.200"
+		(exclude_from_sim no)
+		(at 16.51 333.248 90)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+		)
+		(uuid "5a5246c1-5bd0-40c8-9c3f-5d05fed2f185")
+	)
 	(text "Управление контакторами"
 		(exclude_from_sim no)
 		(at 436.88 302.26 0)
