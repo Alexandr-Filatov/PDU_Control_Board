@@ -6,7 +6,6 @@
 	(paper "A1")
 	(title_block
 		(title "Плата управления")
-		(company "ООО \"Электротранспортные технологии\"")
 		(comment 1 "НВЦТ.0001.0400.200 Э3")
 		(comment 2 "Филатов А.С.")
 		(comment 3 "Сизякин А.В.")
@@ -9569,6 +9568,16 @@
 		)
 		(uuid "03de70ed-cb28-4dfb-9169-286563d8fa45")
 	)
+	(text "1. Перечень элементов см. НВЦТ.0001.0400.200 ПЭ3."
+		(exclude_from_sim no)
+		(at 704.342 512.826 0)
+		(effects
+			(font
+				(size 3.5 3.5)
+			)
+		)
+		(uuid "0ab0f947-c46c-4e99-8e51-7afd152297fe")
+	)
 	(text "Питание 5В"
 		(exclude_from_sim no)
 		(at 339.725 288.29 0)
@@ -9720,6 +9729,26 @@
 			(justify left bottom)
 		)
 		(uuid "d45b0385-debc-4cde-aa72-d9ca698a8d14")
+	)
+	(text "ООО \"Электротранспортные"
+		(exclude_from_sim no)
+		(at 811.022 578.866 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+		)
+		(uuid "e9406fc0-eaa9-40eb-821b-c2204ea06c9d")
+	)
+	(text "технологии\""
+		(exclude_from_sim no)
+		(at 811.022 583.184 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+		)
+		(uuid "ea316351-acde-4508-bb42-0c82a1417456")
 	)
 	(text "Измерение тока"
 		(exclude_from_sim no)
