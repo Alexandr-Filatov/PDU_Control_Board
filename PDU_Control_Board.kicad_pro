@@ -513,7 +513,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "3D/PDU_Control_Board_V1.0.step",
+      "step": "3D/PDU_Control_Board_V1.2.step",
       "svg": "",
       "vrml": ""
     },
@@ -656,8 +656,8 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
-    "plot_directory": "Docs/",
+    "page_layout_descr_file": "kicad-embed://gost_landscape.kicad_wks",
+    "plot_directory": "Docs/PDU_Control_Board_v1.2",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
