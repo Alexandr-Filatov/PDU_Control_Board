@@ -6,7 +6,7 @@
 	(paper "A1")
 	(title_block
 		(title "Плата управления")
-		(comment 1 "НВЦТ.0001.0400.200 Э3_v1 Э3")
+		(comment 1 "НВЦТ.0001.0400.200_v1 Э3")
 		(comment 2 "Филатов А.С,")
 		(comment 3 "Сизякин.А.В.")
 		(comment 4 "Коваленко В.А.")
@@ -10427,6 +10427,16 @@
 		)
 		(uuid "208dfa54-d1ad-4198-86d0-e8b68be15917")
 	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 654.304 551.688 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+		)
+		(uuid "2a74eae6-7977-4630-9f90-00be5183af00")
+	)
 	(text "Питание МК"
 		(exclude_from_sim no)
 		(at 262.89 102.87 0)
@@ -10462,6 +10472,16 @@
 			)
 		)
 		(uuid "4c2df60d-7052-4294-8c53-7a8222d4eb35")
+	)
+	(text "НВЦТ.0001.006\n"
+		(exclude_from_sim no)
+		(at 679.196 551.688 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+		)
+		(uuid "4d20f510-9c7a-46a0-a633-e5da319ded3f")
 	)
 	(text "Измерение высокого входного напряжения "
 		(exclude_from_sim no)
@@ -10562,7 +10582,7 @@
 		)
 		(uuid "b13efcc4-fe51-4c38-8594-a8a5e90fa8cd")
 	)
-	(text "1. Перечень элементов см. НВЦТ.0001.0400.200 ПЭ3_v1."
+	(text "1  Перечень элементов см. НВЦТ.0001.0400.200 ПЭ3_v1."
 		(exclude_from_sim no)
 		(at 697.738 508.254 0)
 		(effects
@@ -10618,6 +10638,16 @@
 			)
 		)
 		(uuid "fd58dc87-fdfe-4390-8f5b-8cf6b6e13384")
+	)
+	(text "Зам."
+		(exclude_from_sim no)
+		(at 662.94 551.688 0)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+		)
+		(uuid "fd92952d-b38b-4b29-8f3a-60e328f84401")
 	)
 	(text_box "DAC_OUT2\n"
 		(exclude_from_sim no)
